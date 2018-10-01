@@ -29,3 +29,17 @@
 2018-10-01 11:32:46,287 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstMavenDemo/src/main/java
 2018-10-01 11:32:46,287 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FirstMavenDemo/src/test/java
 2018-10-01 11:32:46,349 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-10-01 11:32:46,802 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:FirstMavenDemo:0.0.1-SNAPSHOT @ D:\gitdemo\FirstMavenDemo\pom.xml.
+2018-10-01 11:32:47,083 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-01 11:32:47,083 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitdemo\FirstMavenDemo\src\main\resources
+2018-10-01 11:32:47,098 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-01 11:32:47,098 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitdemo\FirstMavenDemo\src\test\resources
+2018-10-01 11:32:47,457 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:FirstMavenDemo:0.0.1-SNAPSHOT @ D:\gitdemo\FirstMavenDemo\pom.xml.
+2018-10-01 11:32:48,175 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-01 11:32:48,175 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitdemo\FirstMavenDemo\src\main\resources
+2018-10-01 11:32:48,190 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-01 11:32:48,190 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitdemo\FirstMavenDemo\src\test\resources
+2018-10-01 11:33:04,616 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-01 11:33:04,631 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitdemo\FirstMavenDemo\src\main\resources
+2018-10-01 11:33:04,631 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-01 11:33:04,631 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitdemo\FirstMavenDemo\src\test\resources
